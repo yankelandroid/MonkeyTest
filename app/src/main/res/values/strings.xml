@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MonkeyTest</string>
+    <string name="search">Search for a gif </string>
+    <string name="logo">Logo</string>
+</resources>
